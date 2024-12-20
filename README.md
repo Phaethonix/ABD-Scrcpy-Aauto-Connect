@@ -10,20 +10,20 @@ To use this script, install the following dependencies:
 
 #### On Arch Linux:  
 ```bash
-sudo pacman -S adb scrcpy zenity
+sudo pacman -S android-tools scrcpy zenity
 ```  
 
 #### On Ubuntu/Debian-based systems:  
 ```bash
-sudo apt-get install adb scrcpy zenity
+sudo apt-get install android-tools scrcpy zenity
 ```  
 
 #### On Fedora:  
 ```bash
-sudo dnf install adb scrcpy zenity
+sudo dnf install android-tools scrcpy zenity
 ```  
 
 #### On openSUSE:  
 ```bash
-sudo zypper install adb scrcpy zenity
+sudo zypper install android-tools scrcpy zenity
 ```  
